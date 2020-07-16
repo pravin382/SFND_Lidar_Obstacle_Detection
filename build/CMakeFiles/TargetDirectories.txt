@@ -1,3 +1,0 @@
-/home/pravin/Desktop/udacity/to_submit/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/edit_cache.dir
-/home/pravin/Desktop/udacity/to_submit/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/rebuild_cache.dir
-/home/pravin/Desktop/udacity/to_submit/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/environment.dir
